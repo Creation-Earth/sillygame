@@ -1,2 +1,0 @@
-# sillygame
-silly game
